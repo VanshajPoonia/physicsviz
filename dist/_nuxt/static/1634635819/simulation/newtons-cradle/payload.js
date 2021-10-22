@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/simulation/newtons-cradle", {data:[{}],fetch:{},mutations:[]});

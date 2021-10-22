@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/simulation/friction", {data:[{}],fetch:{},mutations:[]});
