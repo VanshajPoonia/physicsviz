@@ -2,9 +2,9 @@
 
 ## 💡 Physics Lab
 
-Learning Physics by Visualising - the fastest, easiest, and retainable way of learning Physics [here](https://physics-lab.vercel.app/)!
+Learning Physics by Visualising - the fastest, easiest, and retainable way of learning Physics [here](https://physicsviz.vercel.app/)!
 
-![Version](https://img.shields.io/github/v/release/milan090/physics-lab)
+![Version](https://img.shields.io/github/v/release/VanshajPoonia/physicsviz)
 ![Vue](https://img.shields.io/badge/-Vue-green) ![NuxtJS](https://img.shields.io/badge/-NuxtJS-green) ![SCSS](https://img.shields.io/badge/-SCSS-red) ![MatterJS](https://img.shields.io/badge/-MatterJS-blue)
 
 ### 🧠 Inspiration
