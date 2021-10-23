@@ -1,7 +1,8 @@
 ![alt text](./static/newtons-cradle.gif)
 
-## 💡 Physics Lab
+## 💡 Physics Lab!
 
+[![Screenshot](https://user-images.githubusercontent.com/74147463/138558703-30e5f099-18c9-4221-93eb-464bdbb2aa9b.png)](https://physicsviz.vercel.app)
 Learning Physics by Visualising - the fastest, easiest, and retainable way of learning Physics [here](https://physicsviz.vercel.app/)!
 
 ![Version](https://img.shields.io/github/v/release/VanshajPoonia/physicsviz)
