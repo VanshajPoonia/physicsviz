@@ -5,7 +5,7 @@
     </div>
     <footer>
       <div class="text-center">
-        <span>Made by a nerd for nerds</span>
+        <span>Made by a genius for nerds</span>
         <span>|</span>
         <a href="https://github.com/milan090/physics-lab" target="_blank "
           >Find Physics Lab on Github</a
