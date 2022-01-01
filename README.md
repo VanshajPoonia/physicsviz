@@ -7,7 +7,6 @@ Learning Physics by Visualising - the fastest, easiest, and retainable way of le
 
 ![Version](https://img.shields.io/github/v/release/VanshajPoonia/physicsviz)
 
-![Version](https://img.shields.io/github/v/release/milan090/physics-lab)
 ![Vue](https://img.shields.io/badge/-Vue-green) ![NuxtJS](https://img.shields.io/badge/-NuxtJS-green) ![SCSS](https://img.shields.io/badge/-SCSS-red) ![MatterJS](https://img.shields.io/badge/-MatterJS-blue)
 
 ### 🧠 Inspiration
